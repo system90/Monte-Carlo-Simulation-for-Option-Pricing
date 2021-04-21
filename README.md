@@ -1,4 +1,7 @@
 # Monte-Carlo-Simulation-for-Option-Pricing
-Prcing of Options Pricing using Monte Carlo simulation with geometric brownian motion. 
+Pricing of Options using Monte Carlo simulation with geometric brownian motion. 
 
-Using Python library numpy
+Payoff of Call and Put calculated.
+
+
+Using Python library; numpy
